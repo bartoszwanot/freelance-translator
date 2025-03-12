@@ -7,7 +7,7 @@ I'm Bartosz Wanot, a Senior QA Specialist based in Poland. In my free time, I'm 
 - Press Materials
     - Jesus Fabre PR Agency (press releases, Steam game descriptions) [[link](https://www.jesusfabre.com/)]
     - Critical Reflex (Steam game description, additional game translation) [[link](https://www.criticalreflex.com/)]
-- Game Translation
+- Game Translations
     - Castaway [[link](https://www.canarigames.com/press/sheet.php?p=Castaway)]
 - Books
     - Taylor Swift: Rise of an Icon [[link]](https://ksiazki.promise.pl/produkt/taylor-swift-narodziny-ikony/)
