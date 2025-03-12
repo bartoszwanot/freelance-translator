@@ -1,5 +1,3 @@
-# Freelance translator
-
 Hello 👋
 
 I'm Bartosz Wanot, a Senior QA Specialist based in Poland. In my free time, I'm a passionate gamer and content creator, writing about indie games on Nintendo Switch for my website [nindyki.pl](http://nindyki.pl/). I also work as a freelance translator, specializing in press materials, games, and books. You'll find my portfolio below.
