@@ -9,9 +9,13 @@ I'm Bartosz Wanot, a Senior QA Specialist based in Poland. In my free time, I'm 
     - Critical Reflex (Steam game description, additional game translation) [[link](https://www.criticalreflex.com/)]
 - Games:
     - ***Castaway*** - Johan Vinet's indie game [[link](https://www.canarigames.com/press/sheet.php?p=Castaway)]
+ 
+- Apps:
+    - ***SwitchBuddy*** - unofficial mobile companion app for Nintendo Switch (Android & iOS) [[link](https://switchbuddy.app)]
 - Books:
     - ***Taylor Swift: Rise of an Icon*** [[link](https://ksiazki.promise.pl/produkt/taylor-swift-narodziny-ikony/)]
     - ***The Big Book of Nintendo*** [[link](https://nindyki.pl/wielka-ksiega-nintendo)]
+    - unannounced book about video games
 
 ## Contact
 
